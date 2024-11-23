@@ -1,7 +1,7 @@
 Glowing Button (CLICK ME!)
 
 The button is a modern rectangular design with rounded corners and bold, uppercase text that says "CLICK ME!".
-It features a vibrant blue glow and a soft halo effect, making it visually striking against the dark gradient background. 
+A vibrant blue glow and a soft halo effect, making it visually striking against the dark gradient background. 
 A faint blue shadow adds depth, giving it a floating appearance. 
 The glowing effect suggests interactivity, inviting users to hover or click.
 
